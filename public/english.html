@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+
+        <title>Markdown renderer</title>
+        <meta name="description" content="Markdown renderer">
+
+        <!-- bootstrap -->
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.css" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.css" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="css/main.css" rel="stylesheet">
+
+        <!-- js libraries -->
+        <script src="https://www.gstatic.com/firebasejs/4.0.0/firebase.js"></script>
+        <script>
+          // Initialize Firebase
+          var config = {
+            apiKey: "AIzaSyCe75gg685wqZtOvvBXdRP9-M__KYLcG1Q",
+            authDomain: "kou2kkkt-19840312.firebaseapp.com",
+            databaseURL: "https://kou2kkkt-19840312.firebaseio.com",
+            projectId: "kou2kkkt-19840312",
+            storageBucket: "kou2kkkt-19840312.appspot.com",
+            messagingSenderId: "815034784634"
+          };
+          firebase.initializeApp(config);
+        </script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.6/marked.min.js"></script>
+        <script>
+            $(document).ready(function(){
+                var target = $("#markdown_content");
+
+                $.ajax({
+                    url: target[0].attributes["src"].value,
+                }).success(function(data){
+                    target.append(marked(data));
+                }).error(function(data){
+                    target.append("This content failed to load.");
+                });
+            });
+        </script>
+    </head>
+
+    <body>
+        <!-- Content -->
+        <div class="container">
+            <div id="markdown_content" src="./english.md"> </div>
+        </div>
+    </body>
+</html>
