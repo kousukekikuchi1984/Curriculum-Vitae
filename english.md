@@ -51,12 +51,12 @@
 ## Publication
 
 めんどくせええええ！！！
-1. Urban Planning with Location Based Social Network - A Series of Analytics of Architectural and Urban Descipline (in Japanese).  Architectural Institute of Japan 
-1. **Location Based Social Network による都市分析 都市・建築分野でのビックデータ解析の試み**, 2013年度日本建築学会全国大会（北海道）情報システム技術部門研究協議会　寄稿文
+1. **Urban Planning with Location Based Social Network - A Series of Analytics of Architectural and Urban Descipline (in Japanese)**  Architectural Institute of Japan National Convention(Hokkaido) Information System Technology Research Counsil, 2013
 2. **Collective Background Extraction for Station Market Area by using Location Based Social Network**, Journal of Civil Engineering and Architecture, Vol. 7(3), 282-289, 2013
-3. **スマートライフ**, パレード社,  2011
+3. **Smart Life**, Parade Press, 2011
 4. **A New Method for Analyzing the Relationship between City and Human Behavior using Geo-Tagging Social Networking Service**, International Union of Architects Academic Program, 10074, 388-393, 2011 
-5. **Arduino・Pachube・SketchUpと連携した建築モニタリングシステムの基礎的研究**, 日本建築学会技術報告集, Vol. 16, No. 33, 791-794, 2010
+5. **Fundamental research on architectural monitoring system collaborate with Arduino, Pachube and Sketchup(in Japanese)** Architectural Institute of Japan Journal of Technology Design Vol. 16, No.33, 791-794, Jun., 2010
+
 
 ## Skills
 
