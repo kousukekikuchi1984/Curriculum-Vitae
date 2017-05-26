@@ -84,20 +84,20 @@
 * **IELTS Academic 6.5** 2010.10
 
 ### Awards
-* * **早稲田大学鶴田奨学金** 2013.02
-* **日本建築学会関東支部優秀論文賞受賞** 2012.03
-* **早稲田大学博士実践特論カリキュラム修了** 2011.09
+* **Tsuruta Scholarship**, Waseda University 2013.02
+* **The Best Young Paper Awards**, Architectural Institute of Japan Kanto Branch 2012.03
+* **Plactical Training Program of Doctoral Student**, Waseda University Doctoral Student Carrer Center 2011.09
 
 ## Works
 ### **Plant Pod** 2013.03
-植物と人間はお互いのコミュニケーションチャンネルが異なるので、コミュニケーションすることは不可能である。しかしながら、植物の生育環境をセンシングすることで、その植物がどうしてほしいのかを検知することはできる。この状態を顔文字として表現することで、人間に対して察することを促すことで、コミュニケーションを取らせることを目的としている。
+Human cannot communicate with plant. With the aid of IoT, the environment near a plant can be sensorable, able to sensor preferable environment for a plant. By displaying emoticon of the plant based on its environment, human can guess what the plant feels. With this instrument, he would like to induce communication with an unknownable object.
 https://www.youtube.com/watch?v=IEh0-y3y_0s
 
 ### **Live Camera** 2010.08
-プライバシーを保護しつつも研究室の内部の状態を可視化することを目的としている。この実現のために、Webカメラの色彩情報をクラスタリングをして、画像として保存し、これをマウスのXカーソルごとに時系列ごとに表示させた。これにより、所属者のみわかる抽象化された情報を見て、研究室に来る人が増えた。
+His laboratory had a CCTV for security reason. But to make its image more valuable, he opens its image to public by introducing rasterizing its image. He also created a web application to display time-series images in accordance with X-axis of mouse. Due to this system, student came to his laboratory more to communicate with other students.
 https://www.youtube.com/watch?v=WbKnb9Cbi8s
 
 ### **Environmental Sensing** 2010.03
-センサーを大量にばらまくために、格安のセンサーモデュールを開発した。この情報をサーバーと同期させ、3DCAD上のオブジェクトに反映させた。これにより、居住者も設計者も住宅の状態を把握することができた。
+He developed a low-cost sensor module. He set the sensor modules into a real house, and created a system to upload data to cloud service. By reflecting this data into 3DCAD, residents and designer can confirm housing environment.
 https://www.youtube.com/watch?v=4_mtrW7d3nc
 
