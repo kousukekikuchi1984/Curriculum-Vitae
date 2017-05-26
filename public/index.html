@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <script src="https://www.gstatic.com/firebasejs/4.0.0/firebase.js"></script>
+  <script>
+    // Initialize Firebase
+    var config = {
+      apiKey: "AIzaSyCe75gg685wqZtOvvBXdRP9-M__KYLcG1Q",
+      authDomain: "kou2kkkt-19840312.firebaseapp.com",
+      databaseURL: "https://kou2kkkt-19840312.firebaseio.com",
+      projectId: "kou2kkkt-19840312",
+      storageBucket: "kou2kkkt-19840312.appspot.com",
+      messagingSenderId: "815034784634"
+    };
+    firebase.initializeApp(config);
+  </script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>    
+  <script>
+    $(function() {
+        $('.wrap').click(function() {
+          location.href = $(this).attr('data-url');
+        });
+    });
+  </script>
+  <link rel="stylesheet" href="./card.css">
+  <title>Kosuke Kikuchi</title>
+  <body>
+    <p>Kosuke Kikuchi</p>
+    <div class="card card-1 wrap" data-url="japanese.html">
+      <p>Japanese Resume</p>
+    </div>
+
+    <div class="card card-1 wrap" data-url="english.html">
+      <p>English Resume</p>
+    </div>
+
+  </body>
+
+ </html>

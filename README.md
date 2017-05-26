@@ -1,5 +1,10 @@
 # Resume and Curriculum Vitae of Kosuke Kikuchi
 
+[hosting](https://kou2kkkt-19840312.firebaseapp.com/)
+
 ## Resume
-* [Japanese](japanese.md)
-* [English](english.md)
+Underconstruction
+
+## Curriculum Vitae
+* [Japanese](public/japanese.md)
+* [English](public/english.md)
