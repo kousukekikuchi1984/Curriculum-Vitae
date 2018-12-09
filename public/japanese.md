@@ -19,7 +19,13 @@
 * 特にIPONWebではインターネット広告の大口顧客に対して個別コンサルティングを行い、パフォーマンスを著しく向上させることができた。
 
 ## 職務経験
-### **データマイニングエンジニア**, IPONWeb Japan – 2016.02-Present
+### **機械学習エンジニア**, パーソルキャリア株式会社 - 2017.10-present
+* 機械学習プラットフォームとして、Hadoop基盤の構築とKubernetesを用いた基盤の構築
+* 社内でのMachine Learning Adovocate
+* 知識ベースの推薦アルゴリズムの構築
+
+
+### **データマイニングエンジニア**, IPONWeb Japan – 2016.02-2017.09
 * インターネット広告のパフォーマンス向上させるための企画立案及び実行。対特定大型クライアントに対する個別コンサルティングではパフォーマンスを4倍、予算消化額を10倍にまで向上することに貢献した。
 * 開発経験が比較的豊富であることから、外部データ連携や他部署間連携が必要なデータ計測を開発マネジメントした。これによりターゲティングを絞った広告配信をすることができ、パフォーマンスを2割向上させることができた。
 * ロシアの開発会社とも週一で打ち合わせを行い、コンバージョン予測モデルの向上方法のディスカッション及び開発マネジメントを行なった。
@@ -49,7 +55,7 @@
 1. **Location Based Social Network による都市分析 都市・建築分野でのビックデータ解析の試み**, 2013年度日本建築学会全国大会（北海道）情報システム技術部門研究協議会　寄稿文
 2. **Collective Background Extraction for Station Market Area by using Location Based Social Network**, Journal of Civil Engineering and Architecture, Vol. 7(3), 282-289, 2013
 3. **スマートライフ**, パレード社,  2011
-4. **A New Method for Analyzing the Relationship between City and Human Behavior using Geo-Tagging Social Networking Service**, International Union of Architects Academic Program, 10074, 388-393, 2011 
+4. **A New Method for Analyzing the Relationship between City and Human Behavior using Geo-Tagging Social Networking Service**, International Union of Architects Academic Program, 10074, 388-393, 2011
 5. **Arduino・Pachube・SketchUpと連携した建築モニタリングシステムの基礎的研究**, 日本建築学会技術報告集, Vol. 16, No. 33, 791-794, 2010
 
 ## スキル

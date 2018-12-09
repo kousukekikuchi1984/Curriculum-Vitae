@@ -13,13 +13,19 @@
 
 ## Summary
 * From the graduate school he researched architectural design with quantitative method.
-* He consulted a department store based on his research on user activity at commercial complex. 
+* He consulted a department store based on his research on user activity at commercial complex.
 * Through the analytics experience, he learned programming of Ruby.
 * From this experience, he worked as not only as an engineer but also as an analyst for business.
 * He has strong experience of improving performance of Internet Advertising aside from implementation.
 
 ## Working Experience
-### **Data Mining Engineer**, IPONWeb Japan - 2016.02-Present
+
+### **Machine Learning Engineer**, Persol Career Inc. - 2017.10-present
+* Construction of Machine Learning Platform using Hadoop and Kubernetes
+* Also, a Development of knowledge-based recommendation algorithm.
+* A Machine Learning Adovocate.
+
+### **Data Mining Engineer**, IPONWeb Japan - 2016.02-2017.09
 * Planning of improving CPA performance of a DSP. He has improved 4 times more efficiency of Acquisition-based advertising.
 * Rich experience on IT development made him manage projects of external data vendors and different divisions. Due to the new data, his service is able to improve performance by 20%.
 
@@ -51,7 +57,7 @@
 1. **Urban Planning with Location Based Social Network - A Series of Analytics of Architectural and Urban Descipline (in Japanese)**  Architectural Institute of Japan National Convention(Hokkaido) Information System Technology Research Counsil, 2013
 2. **Collective Background Extraction for Station Market Area by using Location Based Social Network**, Journal of Civil Engineering and Architecture, Vol. 7(3), 282-289, 2013
 3. **Smart Life**, Parade Press, 2011
-4. **A New Method for Analyzing the Relationship between City and Human Behavior using Geo-Tagging Social Networking Service**, International Union of Architects Academic Program, 10074, 388-393, 2011 
+4. **A New Method for Analyzing the Relationship between City and Human Behavior using Geo-Tagging Social Networking Service**, International Union of Architects Academic Program, 10074, 388-393, 2011
 5. **Fundamental research on architectural monitoring system collaborate with Arduino, Pachube and Sketchup(in Japanese)** Architectural Institute of Japan Journal of Technology Design Vol. 16, No.33, 791-794, Jun., 2010
 
 
@@ -75,7 +81,7 @@
 
 ### Natual Languages
 * Japanese: Native Level
-* English: Good user for reading and writing, compotent user for listening and speaking 
+* English: Good user for reading and writing, compotent user for listening and speaking
 
 ### Qualification
 * **IELTS Academic 6.5** 2010.10
