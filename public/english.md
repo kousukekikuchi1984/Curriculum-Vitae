@@ -11,32 +11,42 @@
 |SlideShare|[kousukekikuchi](http://www.slideshare.net/kousukekikuchi)|
 |academia|[KousukeKikuchi](https://waseda.academia.edu/KousukeKikuchi)|
 
-## Summary
-* From the graduate school he researched architectural design with quantitative method.
-* He consulted a department store based on his research on user activity at commercial complex.
-* Through the analytics experience, he learned programming of Ruby.
-* From this experience, he worked as not only as an engineer but also as an analyst for business.
-* He has strong experience of improving performance of Internet Advertising aside from implementation.
+## Self Promotion
+* I learned Lean Startup at Waseda University's EDGE program and view technology as a tool to solve problems and contribute to business.
+* I excel at quickly detecting flaws in design and data and handle both temporary fixes and root cause solutions.
+
+## Career Overview
+* Lead engineer at YUZURIHA, refreshing a large-scale point system for a major sporting goods retailer.
+* At Gunosy, maintained the advertising revenue data platform and improved workflows.
+* At Persol Career, promoted construction of machine learning infrastructure.
 
 ## Working Experience
 
-### **Machine Learning Engineer**, Persol Career Inc. - 2017.10-present
-* Construction of Machine Learning Platform using Hadoop and Kubernetes
-* Also, a Development of knowledge-based recommendation algorithm.
-* A Machine Learning Adovocate.
+### **Lead Engineer**, YUZURIHA Inc. - 2021.01-present
+* Refreshed a point system for ten million users including credit card integration.
+* Led scalable design with distributed processing and set up CI/CD and operational flows.
+* Conducted technical evaluations in recruitment.
+
+### **Back-end Engineer**, Gunosy Inc. - 2019.05-2020.12
+* Aggregated SSP revenue data and built an Athena-accessible platform.
+* Reduced operational costs through workflow reorganization and templates with digdag.
+* Created data marts and an online machine learning foundation.
+
+### **Machine Learning Engineer**, Persol Career Inc. - 2017.10-2019.04
+* Built a machine learning platform using Hadoop and Kubernetes.
+* Acted as an internal Machine Learning Advocate by preparing documentation and training.
+* Developed a knowledge-based recommendation algorithm.
 
 ### **Data Mining Engineer**, IPONWeb Japan - 2016.02-2017.09
-* Planning of improving CPA performance of a DSP. He has improved 4 times more efficiency of Acquisition-based advertising.
-* Rich experience on IT development made him manage projects of external data vendors and different divisions. Due to the new data, his service is able to improve performance by 20%.
+* Boosted advertising performance for major clients by 4x and increased budget consumption tenfold.
+* Collaborated with overseas teams and external data integration to enhance targeting accuracy.
 
 ### **Engineer**, Spotlight Inc., - 2014-04-2016.02
-* He is a core member of developing server-side and of operating infra-side on "Rakuten Check" mobile application.
-* He implemented two big functional additions, resulting in 50% increase of Active User.
-* He also worked as a BizDev, culminating in 20-30% increase of conversions by fully-cooperation with Marketing devision.
+* Developed web services with Python and Angular, boosting Active Users by 1.5x.
+* Worked with the marketing team to increase conversions through campaign initiatives.
 
 ### **Intern**, Hitachi Corporation Central Laboratory, - 2012.02-2012.04
-* He proposed an algorithm for consulting a public client.
-* He also implemented and validated the algorithm with real data.
+* Implemented a consulting algorithm for specific clients and validated it with real data.
 
 ## Academic Background
 ### **Waseda Edge Global Program for Development of Global Entrepreneurs**, Certificate 2016.12
